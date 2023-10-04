@@ -1,0 +1,13 @@
+{
+    "Hdata":[
+        {"name":"메종"},
+        {"name":"메종"},
+        {"name":"메종"},
+        {"name":"메종"}
+    ],
+    "swiperslide":[
+        {"url":"./img/a1.jpg"},
+        {"url":"./img/a2.jpg"},
+        {"url":"./img/a3.jpg"}
+    ]
+}
